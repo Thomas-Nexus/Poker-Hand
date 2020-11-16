@@ -44,7 +44,7 @@ The console (play function) encompasses all of the aforementioned code. The deck
 
 The grading class is called and a long ‘if/elif’ chain is triggered to check for a corresponding poker hand. Feedback is triggered (i.e. ‘TWO PAIR!’) and points are allocated depending on the strength of the hand.
 
-The feedback (string) is purposefully formatted to be showcased in a centralised display with the players’ hand.
+The feedback (string) is purposefully formatted to be showcased in a centralised display with the hand.
 
 
 ## Status
