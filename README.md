@@ -15,6 +15,9 @@ The purpose of the project was to create an accurate and easy game strictly with
 ## Setup
 No setup is required. The hand analyser is all executed when the user runs the program.
 
+## Screenshot
+
+https://github.com/Thomas-Nexus/Poker-Hand-Game/blob/main/Poker%20Screenshot.JPG
 
 ## Walkthrough
 
