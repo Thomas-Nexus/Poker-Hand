@@ -6,9 +6,9 @@ The purpose of the project was to create an accurate and easy game strictly with
 
 
 ## Technologies
-<i>- Language:</i> Python 3.8.3
-<i>- Editor:</i> PyCharm
-<i>- Libraries:</i> Counter (collections) & Random
+- Language: Python 3.8.3
+- Editor: PyCharm
+- Libraries: Counter (collections) & Random
 
 
 
