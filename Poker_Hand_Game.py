@@ -173,12 +173,12 @@ class Grading(object):
 
 # COLOR PALETTE
 
-def red(color):
-    return "\033[91m {}\033[00m" .format(color)
-def green(color):
-    return "\033[96m {}\033[00m" .format(color)
-def yellow(color):
-    return "\033[93m {}\033[00m".format(color)
+def red(colour):
+    return "\033[91m {}\033[00m" .format(colour)
+def green(colour):
+    return "\033[96m {}\033[00m" .format(colour)
+def yellow(colour):
+    return "\033[93m {}\033[00m".format(colour)
 
 Title = red("HOW'S YOUR LUCK?")
 Poles = green("|||||||||||||||||||")
