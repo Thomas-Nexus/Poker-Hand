@@ -17,7 +17,8 @@ No setup is required. The hand analyser is all executed when the user runs the p
 
 ## Screenshot
 
-https://github.com/Thomas-Nexus/Poker-Hand-Game/blob/main/Poker%20Screenshot.JPG
+![Poker Screenshot](https://user-images.githubusercontent.com/72507931/99260248-0a771c80-2813-11eb-829d-a413a124e603.JPG)
+
 
 ## Walkthrough
 
