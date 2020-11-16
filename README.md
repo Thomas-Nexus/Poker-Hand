@@ -1,2 +1,2 @@
 # Poker-Hand-Game
-A poker hand game that generates 5-card hands which displays corresponding grades and points.
+A poker hand game that generates 5-card hands which display corresponding grades and points.
