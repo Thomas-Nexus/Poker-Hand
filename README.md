@@ -8,16 +8,14 @@ The purpose of the project was to create an accurate and easy game strictly with
 ## Technologies
 - Language: Python 3.8.3
 - Editor: PyCharm
-- Libraries: Counter (collections) & Random
+- Libraries: 
+      - Counter (collections)
+      - Random
 
 
 
 ## Setup
 No setup is required. The hand analyser is all executed when the user runs the program.
-
-## Screenshot
-
-![Poker Screenshot](https://user-images.githubusercontent.com/72507931/99260248-0a771c80-2813-11eb-829d-a413a124e603.JPG)
 
 
 ## Walkthrough
@@ -50,6 +48,10 @@ The grading class is called and a long ‘if/elif’ chain is triggered to check
 
 The feedback (string) is purposefully formatted to be showcased in a centralised display with the hand.
 
+
+## Screenshot
+
+![Poker Screenshot](https://user-images.githubusercontent.com/72507931/99260248-0a771c80-2813-11eb-829d-a413a124e603.JPG)
 
 ## Status
 
